@@ -32,3 +32,14 @@
     background: linear-gradient(transparent, rgb(31,31,31));
     position: absolute;
 }
+
+.card-menu-item img 
+{
+    height: 300px;
+    object-fit: cover;
+}
+
+section 
+{
+    scroll-margin-top: 6rem;
+}
