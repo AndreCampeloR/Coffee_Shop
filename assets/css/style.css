@@ -1,3 +1,9 @@
+:root
+{
+    --bs-link-color: #198754;
+    --bs-link-hover-color: #146c43;
+}
+
 .navbar-brand img
 {
     width: 50px;
